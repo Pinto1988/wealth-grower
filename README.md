@@ -30,15 +30,65 @@ A **detailed annual breakdown** is provided in a table format to visualize the y
 4. (Optional) Add **extra contributions** or set an **annual increase**  
 5. Click **"Calculate"** to see the final amount and breakdown 📊  
 
-## 🛠️ Installation
-To run this project locally:
-```sh
-# Clone the repository
-git clone https://github.com/Pinto1988/Calcolatore-Interesse-Composto.git
+📝 How to Use Wealth Grower
+🔹 1. Clone the Repository
+To download the project to your local machine, run the following command:
 
-# Navigate into the project folder
-cd Calcolatore-Interesse-Composto
+sh
+Copia
+Modifica
+git clone https://github.com/Pinto1988/wealth-grower.git
+🔹 2. Navigate to the Project Folder
+After cloning the repository, move into the project directory:
 
-# Open index.html in a browser
-start index.html  # Windows
-open index.html   # Mac
+sh
+Copia
+Modifica
+cd wealth-grower
+🔹 3. Open the Application
+Since this project is a simple web application, you can open it directly in your browser:
+
+Windows:
+sh
+Copia
+Modifica
+start index.html
+Mac/Linux:
+sh
+Copia
+Modifica
+open index.html
+🔹 4. Modify the Code (Optional)
+If you want to customize the project, open it with a text editor like Visual Studio Code:
+
+sh
+Copia
+Modifica
+code .
+🔹 5. Contribute to the Project (Optional)
+If you want to improve the application, follow these steps:
+
+Create a new branch for your changes:
+sh
+Copia
+Modifica
+git checkout -b feature-name
+Add and commit your changes:
+sh
+Copia
+Modifica
+git add .
+git commit -m "Description of the changes"
+Push your changes to GitHub:
+sh
+Copia
+Modifica
+git push origin feature-name
+Create a Pull Request on the repository to submit your contributions.
+📌 Notes:
+
+Make sure you have Git installed on your system to execute these commands.
+This project does not require a server; you can open the index.html file directly in your browser.
+🚀 Enjoy coding! Feel free to contribute or report any issues. 🎯
+
+
