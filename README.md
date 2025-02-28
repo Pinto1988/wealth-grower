@@ -30,62 +30,56 @@ A **detailed annual breakdown** is provided in a table format to visualize the y
 4. (Optional) Add **extra contributions** or set an **annual increase**  
 5. Click **"Calculate"** to see the final amount and breakdown 📊  
 
-📝 How to Use Wealth Grower
-🔹 1. Clone the Repository
-To download the project to your local machine, run the following command:
+# How to Use Wealth Grower
 
-sh
-Copia
-Modifica
+To install and run the project on your local machine, follow these steps:
+
+First, make sure you have Git installed. If you don’t have it, download and install it from https://git-scm.com/.
+
+Next, open a terminal or command prompt and run the following command to clone the repository:
+
 git clone https://github.com/Pinto1988/wealth-grower.git
-🔹 2. Navigate to the Project Folder
-After cloning the repository, move into the project directory:
 
-sh
-Copia
-Modifica
+Once the download is complete, navigate into the project folder:
+
 cd wealth-grower
-🔹 3. Open the Application
-Since this project is a simple web application, you can open it directly in your browser:
 
-Windows:
-sh
-Copia
-Modifica
+Since this project is a simple web application, no additional setup is required. You can open the index.html file directly in your browser.
+
+On Windows:
+
 start index.html
-Mac/Linux:
-sh
-Copia
-Modifica
+
+On Mac/Linux:
+
 open index.html
-🔹 4. Modify the Code (Optional)
-If you want to customize the project, open it with a text editor like Visual Studio Code:
 
-sh
-Copia
-Modifica
+If you want to modify the project, you can open it in a text editor like Visual Studio Code:
+
 code .
-🔹 5. Contribute to the Project (Optional)
-If you want to improve the application, follow these steps:
 
-Create a new branch for your changes:
-sh
-Copia
-Modifica
+To contribute to the project, create a new branch:
+
 git checkout -b feature-name
-Add and commit your changes:
-sh
-Copia
-Modifica
+
+Make your changes and save them. Then, add the changes to Git:
+
 git add .
-git commit -m "Description of the changes"
+
+Commit them with a message:
+
+git commit -m "Description of changes"
+
 Push your changes to GitHub:
-sh
-Copia
-Modifica
+
 git push origin feature-name
-Create a Pull Request on the repository to submit your contributions.
-📌 Notes:
+
+Finally, open a Pull Request on the GitHub repository to submit your contributions.
+
+Make sure you have Git installed to execute these commands. No additional software is required since the project runs directly in the browser.
+
+Enjoy coding! Feel free to contribute or report any issues.
+
 
 Make sure you have Git installed on your system to execute these commands.
 This project does not require a server; you can open the index.html file directly in your browser.
